@@ -301,6 +301,3 @@ for ($i=0; $i < count($oddayy) ; $i++)
 </body>
 </html> -->
 
-<?php 
-
-?>
